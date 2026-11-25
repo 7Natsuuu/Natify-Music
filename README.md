@@ -24,9 +24,9 @@
 
 <br><br>
 
-[Features](#features) |
-[Installation](#installation) |
-[Requirements](#requirements) |
+[Features](#discover-natify) |
+[Download](#get-natify) |
+[Requirements](#system-requirements) |
 [Releases](../../releases)
 
 </div>
@@ -41,79 +41,65 @@
 
 ---
 
-## Features
+## Discover Natify
 
-<table>
-<tr>
-<td width="50%" valign="top">
+*More than a music player. Your own musical universe.*
 
-<h3>Music Experience</h3>
+### Music Experience
 
-- Personalized recommendations
-- Music discovery
-- Synchronized lyrics
-- Playlists and favorites
-- Dynamic album artwork
-- Natify Replay
-- Local audio playback
+Discover new music with personalized recommendations, synchronized lyrics, dynamic album artwork, playlists, favorites and Natify Replay.
 
-</td>
-<td width="50%" valign="top">
+### Advanced Audio
 
-<h3>Audio & Immersion</h3>
+Shape your sound with a 10-band equalizer, 21 presets, custom audio profiles and smart transitions.
 
-- Advanced equalizer
-- 21 equalizer presets
-- Cinematic themes
-- Interactive Music Galaxy
-- Real-time audio visualizer
-- Smart audio transitions
-- Custom audio presets
+### Immersive Experience
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Make music your own with cinematic themes, an interactive Music Galaxy and real-time audio visualization.
 
-<h3>Connectivity</h3>
+### Stay Connected
 
-- Discord Rich Presence
-- Remote playback control
-- OneDrive backup
-- Optional account connection
+Share your listening activity through Discord Rich Presence, control playback remotely and back up your library with OneDrive.
 
-</td>
-<td width="50%" valign="top">
+### Made for Your Desktop
 
-<h3>Desktop Experience</h3>
-
-- Floating music player
-- Gaming mode
-- Voice commands
-- Portable edition
-
-</td>
-</tr>
-</table>
+Enjoy a floating music player, gaming mode, voice commands and local audio playback.
 
 ---
 
-## Installation
+## Get Natify
 
-| Edition | Platform | Installation |
-|---|---|---|
-| **Windows Installer** | Windows x64 | Standard installation |
-| **Portable Edition** | Windows x64 | Extract and launch |
+Choose the edition that suits you best.
 
-Both editions are available in the [Releases](../../releases) section once published.
+### Windows Installer
 
-## Requirements
+**Recommended for most users.**
 
-- Windows 10 or Windows 11 (64-bit)
-- Internet connection for online music
-- Discord Desktop for optional Rich Presence
+Standard Windows installation with desktop integration.
 
-No separate Node.js installation required.
+[![Download Installer](https://img.shields.io/badge/Download_Windows_Installer-9333EA?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/7Natsuuu/Natify-Music/releases/download/v0.1.0/Natify-0.1.0-x64.exe)
+
+### Portable Edition
+
+**No installation required.**
+
+Extract the archive, launch Natify.exe and enjoy.
+
+[![Download Portable](https://img.shields.io/badge/Download_Portable_Edition-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7Natsuuu/Natify-Music/releases/download/v0.1.0/Natify-0.1.0-x64.zip)
+
+[Browse all releases](https://github.com/7Natsuuu/Natify-Music/releases)
+
+Downloads become available after the official release is published.
+
+---
+
+## System Requirements
+
+- **Operating system:** Windows 10 or Windows 11 (64-bit)
+- **Internet:** Required for online music
+- **Discord Desktop:** Optional, for Rich Presence
+
+No separate Node.js or Electron installation required.
 
 ---
 
