@@ -6,10 +6,10 @@
 
 ### Your music. Your universe.
 
-![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows)
-![Version](https://img.shields.io/badge/Version-0.1.0-9333EA?style=for-the-badge)
-![Price](https://img.shields.io/badge/Price-Free-9333EA?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Proprietary-25202E?style=for-the-badge)
+[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows)](#system-requirements)
+[![Version](https://img.shields.io/badge/Version-0.1.0-9333EA?style=for-the-badge)](https://github.com/7Natsuuu/Natify-Music/releases)
+[![Price](https://img.shields.io/badge/Price-Free-9333EA?style=for-the-badge)](#get-natify)
+[![License](https://img.shields.io/badge/License-Proprietary-25202E?style=for-the-badge)](#copyright)
 
 **An immersive music experience built for Windows.**
 
