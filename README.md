@@ -20,6 +20,8 @@
 </a>
 <a href="https://github.com/7Natsuuu/Natify-Music/releases/download/v0.1.0/Natify-0.1.0-x64.zip">
 <img src="https://img.shields.io/badge/Download_Portable-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Download Portable">
+
+  Questions, suggestions or bug reports? Contact me on Discord: naatsuu.
 </a>
 
 <br><br>
