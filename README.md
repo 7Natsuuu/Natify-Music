@@ -46,7 +46,6 @@ Questions, suggestions or bug reports? Contact me on Discord: naatsuu.
 
 ## Discover Natify
 
-*More than a music player. Your own musical universe.*
 
 ### Music Experience
 
