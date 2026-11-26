@@ -7,7 +7,7 @@
 ### Your music. Your universe.
 
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows)](#system-requirements)
-[![Version](https://img.shields.io/badge/Version-0.2.0-9333EA?style=for-the-badge)](https://github.com/7Natsuuu/Natify-Music/releases)
+[![Version](https://img.shields.io/badge/Version-0.2.1-9333EA?style=for-the-badge)](https://github.com/7Natsuuu/Natify-Music/releases)
 [![Price](https://img.shields.io/badge/Price-Free-9333EA?style=for-the-badge)](#get-natify)
 [![License](https://img.shields.io/badge/License-Proprietary-25202E?style=for-the-badge)](#copyright)
 
@@ -15,10 +15,10 @@
 
 <br>
 
-<a href="https://github.com/7Natsuuu/Natify-Music/releases/download/v0.2.0/Natify-0.2.0-x64.exe">
+<a href="https://github.com/7Natsuuu/Natify-Music/releases/download/v0.2.1/Natify-0.2.1-x64.exe">
 <img src="https://img.shields.io/badge/Download_Installer-9333EA?style=for-the-badge&logo=windows&logoColor=white" alt="Download Installer">
 </a>
-<a href="https://github.com/7Natsuuu/Natify-Music/releases/download/v0.2.0/Natify-0.2.0-x64.zip">
+<a href="https://github.com/7Natsuuu/Natify-Music/releases/download/v0.2.1/Natify-0.2.1-x64.zip">
 <img src="https://img.shields.io/badge/Download_Portable-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Download Portable">
 
 </a>
@@ -80,7 +80,7 @@ Choose the edition that suits you best.
 
 Standard Windows installation with desktop integration.
 
-[![Download Installer](https://img.shields.io/badge/Download_Windows_Installer-9333EA?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/7Natsuuu/Natify-Music/releases/download/v0.2.0/Natify-0.2.0-x64.exe)
+[![Download Installer](https://img.shields.io/badge/Download_Windows_Installer-9333EA?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/7Natsuuu/Natify-Music/releases/download/v0.2.1/Natify-0.2.1-x64.exe)
 
 ### Portable Edition
 
@@ -88,11 +88,17 @@ Standard Windows installation with desktop integration.
 
 Extract the archive, launch Natify.exe and enjoy.
 
-[![Download Portable](https://img.shields.io/badge/Download_Portable_Edition-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7Natsuuu/Natify-Music/releases/download/v0.2.0/Natify-0.2.0-x64.zip)
+[![Download Portable](https://img.shields.io/badge/Download_Portable_Edition-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7Natsuuu/Natify-Music/releases/download/v0.2.1/Natify-0.2.1-x64.zip)
 
 [Browse all releases](https://github.com/7Natsuuu/Natify-Music/releases)
 
-[Verify downloads (SHA-256)](https://github.com/7Natsuuu/Natify-Music/releases/download/v0.2.0/SHA256SUMS.txt)
+<details>
+<summary>Verify downloads (SHA-256)</summary>
+
+- Installer: `88df8b9081cbfa74722631cb851b4c99e16507182c7d8a24866d754b053bd433`
+- Portable ZIP: `76a3790cda516c7f70710cb0526a17ccf3dff827b81cf67c30b4a10a88d60f5a`
+
+</details>
 
 [View the latest release and changelog](https://github.com/7Natsuuu/Natify-Music/releases/latest)
 
